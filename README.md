@@ -10,7 +10,7 @@
 ## 📋 **What You'll Need**
 * 💻 A computer with internet access.
 * ✍️ A code editor (e.g., Visual Studio Code).
-* 🖥️ MySQL Workbench or another SQL database environment.
+* 🖥️ MySQL Workbench or another SQL database environment
 
 ---
 
